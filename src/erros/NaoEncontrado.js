@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import ErroBase from "./ErroBase.js";
 
 class NaoEncontrado extends ErroBase {

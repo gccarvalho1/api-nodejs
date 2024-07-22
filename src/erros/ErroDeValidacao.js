@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import ReqIncorreta from "./ReqIncorreta.js";
 
 class ErroDeValidacao extends ReqIncorreta{
