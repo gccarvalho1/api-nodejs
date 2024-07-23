@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Bem-vindo ao repositório da minha primeira API construída com Node.js! Este projeto foi criado para demonstrar o básico de como configurar e construir uma API simples usando Node.js e Express, além de utilizar um banco de dados não relacional (MongoDB).
+Bem-vindo ao repositório da minha primeira API construída com Node.js! Este projeto foi criado para demonstrar o básico de como configurar e construir uma API simples usando Node.js e Express, além de utilizar um banco de dados não relacional (MongoDB) e utilizar o POSTMAN como plataforma de teste.
 
 ## 🚀 Começando
 
